@@ -1,6 +1,6 @@
 {
   "name": "@avertjanova/arcade-core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Core code for the game 2048",
   "main": "index.js",
   "scripts": {
