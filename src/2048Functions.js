@@ -86,9 +86,9 @@ export function move(board, dir) {
       spawn(board);
     }
     if (!hasMoves(board)) {
-      gameOver = true;
       console.log("game over");
     }
+    return moved;
   }
 
   export function canMove(board, dir) {
